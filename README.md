@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Gaming
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Data analytics
-- 📫 How to reach me ...vishwajeetblz14@gmail.com
+- 📫 How to reach me ...vbandgar140@gmail.com
 - 😄 Pronouns: ...he/him
   
 
