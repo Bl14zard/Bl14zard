@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bl14zard
+- 👋 Hi, I’m @Bl1IMBU
 - 👀 I’m interested in ...Gaming
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Data analytics
