@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bl1IMBU
 - 👀 I’m interested in ...Technology
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Tableau
 - 💞️ I’m looking to collaborate on ...Data analytics
 - 📫 How to reach me ...vbandgar140@gmail.com
 - 😄 Pronouns: ...he/him
